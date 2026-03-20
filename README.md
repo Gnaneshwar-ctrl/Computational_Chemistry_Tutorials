@@ -9,3 +9,4 @@ In this repo, we plan to build in using existing first principled techniques to 
 
 1) https://doi.org/10.1063/5.0006074
 2) https://doi.org/10.1021/acs.jctc.6b01028
+3) https://nptel.ac.in/courses/103103036
