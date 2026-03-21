@@ -13,10 +13,8 @@ pip install numpy scipy matplotlib
 # pip install jupyter notebook #(Optional, i skipped as i work with vscode notebooks)
  
 # PySCF - the Python quantum chemistry package
-pip install pyscf
-pip install pandas h5py
+pip install pyscf pandas h5py
  
 echo "=========================================="
 echo "Environment setup complete!"
 echo "=========================================="
- 
