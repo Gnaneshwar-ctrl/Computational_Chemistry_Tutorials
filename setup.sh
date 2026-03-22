@@ -6,6 +6,9 @@ echo "=========================================="
 
 python3 -m venv qchem_env
 source qchem_env/bin/activate
+
+pip install jax jaxlib numpyro distrax optax flax seaborn arviz
+pip install blackjax  # standalone HMC/NUTS samplers
  
 # Install essential packages
 pip install --upgrade pip
