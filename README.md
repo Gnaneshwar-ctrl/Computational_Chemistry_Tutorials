@@ -8,6 +8,8 @@ In this repo, we plan to build in using existing first principled techniques to 
 
 ### Part1.ipynb - Focuses on solving the schrodinger equation for strongy correleated material systems where DFT and CCSDT fail
 
+### Part2.ipynb - DFT Theory
+
 ###
 
 ## Additional Reading:
